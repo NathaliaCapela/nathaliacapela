@@ -1,6 +1,6 @@
 <img src = "banner.gif" width = "325px" align = "right">
 
-# ❤️ Olá, que bom ter você por aqui!🍵
+#  Olá, que bom ter você por aqui!🍵
 . 💻Cursando Graduação de Desenvolvimento de Sistemas.
 
 . ❤️ Estudante de Desenvolvimento Web em HTML5,CSS,JavaScript e PHP.
