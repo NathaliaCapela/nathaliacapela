@@ -5,7 +5,7 @@
 
 . ❤️ Estudante de Desenvolvimento Web em HTML5,CSS,JavaScript e PHP.
 
-.💡Aprendendo algo sobre Programação em PYTHON.
+.💡Estudando Testes automátizados com Cypress
 
 </div> 
    <a href="https://www.instagram.com/nathy_sousa89/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
