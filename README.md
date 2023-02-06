@@ -3,7 +3,8 @@
 #  Olá, que bom ter você por aqui!🍵
 . 💻Cursando Graduação de Análise e Desenvolvimento de Sistemas.
 
-. ❤️ Estudante de Desenvolvimento Web em HTML5,CSS,JavaScript e PHP,testes automatizados com Cypress.
+. ❤️ Estudante de Desenvolvimento Web em HTML5,CSS,JavaScript e PHP.
+. 💡 Cursando Testes automatizados com Cypress.
 
 
 </div> 
