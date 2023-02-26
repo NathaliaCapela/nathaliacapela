@@ -5,7 +5,7 @@
 
 . ❤️ Estudante de Desenvolvimento Web e especialização em Testes Automatizados.
 
-    💡Quality Assurance
+.💡Quality Assurance
 
 
 </div> 
