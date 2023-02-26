@@ -3,9 +3,9 @@
 #  Olá, que bom ter você por aqui!🍵
 . 💻Cursando Graduação de Análise e Desenvolvimento de Sistemas.
 
-. ❤️ Estudante de Desenvolvimento Web em HTML5,CSS,JavaScript e PHP.
+. ❤️ Estudante de Desenvolvimento Web e especialização em Testes Automatizados.
 
-. 💡 Cursando Testes automatizados com Cypress.
+    💡Quality Assurance
 
 
 </div> 
