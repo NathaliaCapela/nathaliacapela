@@ -3,7 +3,7 @@
 #  Olá, que bom ter você por aqui!🍵
 . 💻Cursando Graduação de Análise e Desenvolvimento de Sistemas.
 
-. ❤️ Estudante de Desenvolvimento Web e especialização em Testes Automatizados.
+. ❤️ Desenvolvimento Web e especialização em Testes Automatizados.
 
 .💡Quality Assurance
 
