@@ -28,6 +28,11 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp; 
+  <img src="https://user-images.githubusercontent.com/122760805/222525554-eff65a85-643b-45dc-9ebd-857f2529ae95.png" title="Github" alt="Github  width="40" 
+  height="40"/>&nbsp;
+  <img src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png" title="Github" alt="Github  width="40" 
+  height="40"/>&nbsp;
+
   
    
  
