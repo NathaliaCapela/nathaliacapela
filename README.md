@@ -30,7 +30,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp; 
   <img src="https://user-images.githubusercontent.com/122760805/222525554-eff65a85-643b-45dc-9ebd-857f2529ae95.png" title="Github" alt="Github  width="40" 
   height="40"/>&nbsp;
-  <img src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png" title="Github" alt="Github  width="40" 
+  <img src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png" title="Cypress" alt="Cypress  width="40" 
   height="40"/>&nbsp;
 
   
